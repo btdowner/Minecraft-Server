@@ -17,5 +17,7 @@ Mbps.
 
 
 
-open firewall on proxmox
-no ip in source ip
+- open firewall on proxmox
+- no ip in source ip
+- router changes Ip address used ddns
+- play while away from home
