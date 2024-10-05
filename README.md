@@ -11,7 +11,7 @@ Mbps.
 2. A Server Operating System
 3. A Hypervisor
 4. Minecraft Server files
-5. USB drive
+5. A USB drive
 6. A Mojang account and license to play Minecraft: Bedrock Edition
 
 
