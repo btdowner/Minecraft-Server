@@ -6,5 +6,5 @@ In this project, I decided to create and configure a Minecraft Server: Bedrock E
 
 **Prerequisites**
 -----------------
- A mini PC with a Quad-core processor, 4GB of RAM, a 10 GB SSD drive, and a NIC capable of at least 5 Mbps.
+ A mini PC with a Quad-core processor, 4GB of RAM, a 10 GB SSD, and a NIC capable of at least 5 Mbps.
 
