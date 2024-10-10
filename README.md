@@ -1,4 +1,4 @@
-# Minecraft Server, Bedrock Edition Project
+# Minecraft Server, Bedrock Edition Project:
 
 **Project Overview:**
 ---------------------
