@@ -61,7 +61,10 @@ To ensure the server was accessible globally without a static IP, I implemented:
 
 ### **WAN IP Instability**
 * **Issue:** Every router reboot broke the connection for external players.
-* **Fix:** Implemented **Dynamic DNS (DDNS)**, allowing users to connect via a persistent hostname (e.g., `brandon.ddns.net`) rather than a
+* **Fix:** Implemented **Dynamic DNS (DDNS)**, allowing users to connect via a persistent hostname (e.g., `brandon.ddns.net`) rather than a changing IP address.
+
+---
+
 <style>
   /* Target the specific Midnight layout tags */
   .wrapper, section, header {
