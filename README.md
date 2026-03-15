@@ -5,7 +5,7 @@ In this project, I architected and deployed a **Minecraft Bedrock Edition Server
 
 This project served as a deep dive into **virtualization**, **Linux server administration**, and **edge networking**.
 
-[INSERT PHOTO OF CASTLE HERE]
+[1000006221.jpg]
 
 ---
 
