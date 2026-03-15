@@ -62,4 +62,22 @@ To ensure the server was accessible globally without a static IP, I implemented:
 ### **WAN IP Instability**
 * **Issue:** Every router reboot broke the connection for external players.
 * **Fix:** Implemented **Dynamic DNS (DDNS)**, allowing users to connect via a persistent hostname (e.g., `brandon.ddns.net`) rather than a
-<style> /* Target the specific Midnight layout tags */ .wrapper, section, header { max-width: 95% !important; width: 95% !important; margin: 0 auto !important; } /* Remove the padding that creates 'fake' empty space */ section { padding: 20px 0 !important; } /* Ensure your Cisco CLI blocks use the full 95% width */ pre, .highlight { width: 100% !important; box-sizing: border-box !important; } </style>
+<style>
+  /* Target the specific Midnight layout tags */
+  .wrapper, section, header {
+    max-width: 95% !important;
+    width: 95% !important;
+    margin: 0 auto !important;
+  }
+
+  /* Remove padding to use more vertical/horizontal space */
+  section {
+    padding: 20px 0 !important;
+  }
+
+  /* Expand CLI blocks to use the full width */
+  pre, .highlight {
+    width: 100% !important;
+    box-sizing: border-box !important;
+  }
+</style>
