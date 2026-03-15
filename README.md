@@ -49,7 +49,7 @@ To ensure the server was accessible globally without a static IP, I implemented:
 * **Port Forwarding:** Opened **UDP 19132** to allow external traffic.
 * **Dynamic DNS (DDNS):** Integrated a hostname provider to automatically track WAN IP changes.
 
-![ROUTER SETTINGS](4Screenshot 2025-07-11 152511.png)
+![ROUTER SETTINGS](4Screenshot%202025-07-11%20152511.png)
 
 ---
 
@@ -62,3 +62,4 @@ To ensure the server was accessible globally without a static IP, I implemented:
 ### **WAN IP Instability**
 * **Issue:** Every router reboot broke the connection for external players.
 * **Fix:** Implemented **Dynamic DNS (DDNS)**, allowing users to connect via a persistent hostname (e.g., `brandon.ddns.net`) rather than a
+<style> /* Target the specific Midnight layout tags */ .wrapper, section, header { max-width: 95% !important; width: 95% !important; margin: 0 auto !important; } /* Remove the padding that creates 'fake' empty space */ section { padding: 20px 0 !important; } /* Ensure your Cisco CLI blocks use the full 95% width */ pre, .highlight { width: 100% !important; box-sizing: border-box !important; } </style>
