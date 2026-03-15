@@ -65,6 +65,9 @@ To ensure the server was accessible globally without a static IP, I implemented:
 
 ---
 
+## 🔗 LinkedIn
+💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/brandonthomasdowner)
+
 <style>
   /* Target the specific Midnight layout tags */
   .wrapper, section, header {
