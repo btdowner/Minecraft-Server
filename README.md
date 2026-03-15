@@ -28,7 +28,7 @@ This project served as a deep dive into **virtualization**, **Linux server admin
 * **Networking:** NAT, Port Forwarding (**UDP 19132**), and DDNS configuration.
 * **Optimization:** Resource allocation (CPU/RAM balancing) and latency tuning.
 
-![PROXMOX DASHBOARD](cScreenshot 2025-07-11 151156.png)
+![PROXMOX_DASHBOARD](cScreenshot2025-07-11151156.png)
 
 ---
 
