@@ -5,7 +5,7 @@ In this project, I architected and deployed a **Minecraft Bedrock Edition Server
 
 This project served as a deep dive into **virtualization**, **Linux server administration**, and **edge networking**.
 
-[1000006221.jpg]
+![Minecraft Finished Project](1000006221.jpg)
 
 ---
 
@@ -15,7 +15,10 @@ This project served as a deep dive into **virtualization**, **Linux server admin
 * **Guest OS:** **Ubuntu Server** (Headless)
 * **Network:** Router supporting **Port Forwarding**, **DHCP Reservations**, and **Dynamic DNS (DDNS)**.
 
-[INSERT PHOTOS OF HARDWARE DASHBOARD HERE]
+<p align="center">
+  <img src="A20250711_161936.jpg" width="48%" />
+  <img src="b20250711_142047.jpg" width="48%" />
+</p>
 
 ---
 
@@ -25,7 +28,7 @@ This project served as a deep dive into **virtualization**, **Linux server admin
 * **Networking:** NAT, Port Forwarding (**UDP 19132**), and DDNS configuration.
 * **Optimization:** Resource allocation (CPU/RAM balancing) and latency tuning.
 
-[INSERT PHOTO OF PROXMOX DASHBOARD HERE]
+![PROXMOX DASHBOARD](cScreenshot 2025-07-11 151156.png)
 
 ---
 
@@ -46,7 +49,7 @@ To ensure the server was accessible globally without a static IP, I implemented:
 * **Port Forwarding:** Opened **UDP 19132** to allow external traffic.
 * **Dynamic DNS (DDNS):** Integrated a hostname provider to automatically track WAN IP changes.
 
-[INSERT PHOTO OF NETWORK DIAGRAM OR ROUTER SETTINGS HERE]
+![ROUTER SETTINGS](4Screenshot 2025-07-11 152511.png)
 
 ---
 
