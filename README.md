@@ -1,6 +1,6 @@
 [← Back to Home](https://github.com/btdowner)
 
-# 🎮 Minecraft Bedrock Server – Proxmox Homelab Project
+# 🎮 Virtualized Game Server Deployment: Minecraft Bedrock on Proxmox VE
 
 ## 📘 Project Overview
 In this project, I architected and deployed a **Minecraft Bedrock Edition Server** hosted within a **Proxmox Virtual Environment**. The goal was to move away from the limitations of "Minecraft Realms" to create a high-performance, highly customizable multiplayer environment for family and friends.
