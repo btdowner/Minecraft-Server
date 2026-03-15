@@ -1,5 +1,7 @@
 [← Back to Home](https://github.com/btdowner)
 
+---
+
 # 🎮 Virtualized Game Server Deployment: Minecraft Bedrock on Proxmox VE
 
 ---
